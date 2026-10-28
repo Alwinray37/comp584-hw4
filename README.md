@@ -1,4 +1,3 @@
-# comp584 Hw4 
-## Javascript Foundations
+# Comp584 HW4 Javascript Foundations
 
-all solutions are in hw4.js file. 
+All solutions are in hw4.js file. 
